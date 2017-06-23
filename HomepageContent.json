@@ -22,9 +22,9 @@
     "texts":
     {
       "welcome": "Herzlich Willkommen!",
-      "shortDescription": "... bei uns finden eine große Auswahl an Taschen und Hüllen für Ihr Handy, Smartphone und Tablet, sowie weiteres Zubehör zu günstigen Preisen, bei kostenlosem Versand innerhalb Deutschland und möglicher Lieferung auf Rechnung.",
-      "longText": "",
-      "recommendText": "plentymarkets empfiehlt"
+      "shortDescription": "Taschen und Hüllen für Ihr Handy, Smartphone und Tablet und mehr...",
+      "longText": "... bei uns finden eine große Auswahl an Taschen und Hüllen für Ihr Handy, Smartphone und Tablet, sowie weiteres Zubehör zu günstigen Preisen, bei kostenlosem Versand innerhalb Deutschland und möglicher Lieferung auf Rechnung.",
+      "recommendText": "cogodis empfiehlt"
     },
     "recommended":
     [
@@ -72,9 +72,9 @@
     "texts":
     {
       "welcome": "Welcome!",
-      "shortDescription": "... to our new responsive template <b>Ceres</b>.",
+      "shortDescription": "",
       "longText": "",
-      "recommendText": "plentymarkets recommends"
+      "recommendText": ""
     },
     "recommended":
     [
