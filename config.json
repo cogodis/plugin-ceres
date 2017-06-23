@@ -120,7 +120,7 @@
         "key"       : "header.company_name",
         "label"     : "Name of your store",
         "type"      : "text",
-        "default"   : "Ceres Webshop"
+        "default"   : "cogodis Webshop"
     },
     {
         "tab"       : "Header",
