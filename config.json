@@ -113,7 +113,7 @@
         "key"       : "header.company_logo",
         "label"     : "URL to your company logo",
         "type"      : "text",
-        "default"   : "images/ceres-logo.svg"
+        "default"   : "images/cogodis-logo.png"
     },
     {
         "tab"       : "Header",
