@@ -129,7 +129,7 @@ body.menu-is-visible { overflow-y : hidden; }
 				float 			: right;
 				font-family 	: FontAwesome;
 				font-size 		: 1.5rem;
-				height 			: auto;
+				height 			: 30px;
 				padding 		: 0 .5em 0 1em;
 				width 			: auto;
 			}
@@ -166,6 +166,7 @@ body.menu-is-visible { overflow-y : hidden; }
 					background 		: $menu-big-menu-bg;
 					height 			: auto;
 					top 			: 100%;
+					text-align 		: center;
 					text-align 		: center;
 					width 			: auto;
 					max-width 		: 25em;
